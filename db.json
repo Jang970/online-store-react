@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "image": "",
+      "name": "Box Tee",
+      "price": 90,
+      "category": "shirts",
+      "id": 1
+    },
+    {
+      "image": "",
+      "name": "CDG Shirt",
+      "price": 169,
+      "category": "shirts",
+      "id": 2
+    },
+    {
+      "image": "",
+      "name": "ILU Shorts",
+      "price": 80,
+      "category": "shorts",
+      "id": 3
+    },
+    {
+      "image": "",
+      "name": "Essentials Hood",
+      "price": 400,
+      "category": "hoodies",
+      "id": 4
+    },
+    {
+      "image": "",
+      "name": "Denim",
+      "price": 200,
+      "category": "pants",
+      "id": 5
+    },
+    {
+      "image": "",
+      "name": "Canvas Jacket",
+      "price": 300,
+      "category": "jackets",
+      "id": 6
+    }
+  ]
+}
